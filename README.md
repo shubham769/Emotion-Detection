@@ -1,7 +1,6 @@
 # Emotion-Recognition
 This project recognizes human faces and their corresponding emotions from a webcam feed. Used OpenCV and Deep Learning. The model I have used is taken from here https://github.com/oarriaga/face_classification
 
-![picture alt](https://github.com/anwarshaikh078/Emotion-Recognition/blob/master/gif/abc.gif)
 
 ## Code Requirements
 You can install Conda for python which resolves all the dependencies for machine learning.
